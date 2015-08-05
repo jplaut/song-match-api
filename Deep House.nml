@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="14"><HEAD COMPANY="www.native-instruments.com" PROGRAM="SeratoToTraktor"></HEAD>
+<MUSICFOLDERS></MUSICFOLDERS>
+<COLLECTION ENTRIES="15"><ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32300" TITLE="Kaimanawa (Original Mix)" ARTIST="Cavalier"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Cavalier - Kaimanawa (Original Mix).mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="6" TITLE="Drumpoet Community #BeatportDecade Deep House"></ALBUM>
+<INFO BITRATE="320000" GENRE="Deep House" LABEL="Drumpoet Community" COVERARTID="032/ANI1XQCI2VKFKAL4DOBZACNEV4UC" KEY="D#min" PLAYTIME="317" RELEASE_DATE="2014/1/1" FILESIZE="12532"></INFO>
+<TEMPO BPM="124" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32301" TITLE="Coco, Steel &amp; Lovebomb - Feel It (Original Mix)"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Coco, Steel &amp; Lovebomb - Feel It (Original Mix).wav" VOLUME="J:" VOLUMEID=""></LOCATION>
+<INFO FILESIZE="77971"></INFO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32304" TITLE="Face B (Original Mix)" ARTIST="Isolee"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Isolee - Face B (Original Mix).aiff" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="7" TITLE="We Are Monster"></ALBUM>
+<INFO BITRATE="1378000" GENRE="Electronica" LABEL="Pampa Records" COMMENT="Purchased at Beatport.com" COVERARTID="031/5YPFEIAA2PELJDNADUUQDZU0DAED" KEY="Dmaj" PLAYTIME="344" RELEASE_DATE="2011/1/1" FILESIZE="59494"></INFO>
+<TEMPO BPM="124" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32307" TITLE="This Is a Lonely Beat (Original Mix)" ARTIST="John Daly"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="John Daly - This Is a Lonely Beat (Original Mix).mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="5" TITLE="Drumpoet Community #BeatportDecade Deep House"></ALBUM>
+<INFO BITRATE="320000" GENRE="Deep House" LABEL="Drumpoet Community" COMMENT="Mario" COVERARTID="032/ANI1XQCI2VKFKAL4DOBZACNEV4UC" KEY="A#min" PLAYTIME="427" RELEASE_DATE="2014/1/1" FILESIZE="16846"></INFO>
+<TEMPO BPM="119" BPM_QUALITY="100"></TEMPO>
+<CUE_V2 NAME="Serato Cue 1" DISPL_ORDER="0" TYPE="0" START="16189" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32308" TITLE="Deviate (Original Mix)" ARTIST="Manuel Tur, DPlay"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Manuel Tur, DPlay - Deviate (Original Mix).mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="3" TITLE="Drumpoet Community #BeatportDecade Deep House"></ALBUM>
+<INFO BITRATE="320000" GENRE="Deep House" LABEL="Drumpoet Community" COMMENT="Mario" COVERARTID="032/ANI1XQCI2VKFKAL4DOBZACNEV4UC" KEY="F#min" PLAYTIME="465" RELEASE_DATE="2014/1/1" FILESIZE="18323"></INFO>
+<TEMPO BPM="118" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32308" TITLE="The Revival (Giom Remix)" ARTIST="Cuts Deep, Martine Girault"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Martine Girault - The Revival (Giom Remix).aiff" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="3" TITLE="The Revival"></ALBUM>
+<INFO BITRATE="1378000" GENRE="Indie Dance / Nu Disco" LABEL="Toolroom Records" COMMENT="Purchased at Beatport.com" REMIXER="Giom" COVERARTID="115/T1A3L0BXDGG0QD4EWG1DALQG3ACC" KEY="Amaj" PLAYTIME="388" RELEASE_DATE="2013/1/1" FILESIZE="67000"></INFO>
+<TEMPO BPM="120" BPM_QUALITY="100"></TEMPO>
+<CUE_V2 NAME="Serato Cue 1" DISPL_ORDER="0" TYPE="0" START="213" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32308" TITLE="Turn Loose (Dixon Edit)" ARTIST="Soultourist"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:" FILE="Soultourist - Turn Loose (Dixon Edit).mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM TRACK="1" TITLE="Drumpoet Community #BeatportDecade Deep House"></ALBUM>
+<INFO BITRATE="320000" GENRE="Deep House" LABEL="Drumpoet Community" COMMENT="Mario" REMIXER="Dixon" COVERARTID="032/ANI1XQCI2VKFKAL4DOBZACNEV4UC" KEY="Gmin" PLAYTIME="333" RELEASE_DATE="2014/1/1" FILESIZE="13140"></INFO>
+<TEMPO BPM="120" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32310" TITLE="A Tribute" ARTIST="AFMB"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:" FILE="AFMB - 02 - A Tribute.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="2" TITLE="A Forest Mighty Black"></ALBUM>
+<INFO BITRATE="294000" GENRE="Dance &amp; DJ" COMMENT="Amazon.com Song ID: 245376694" COVERARTID="003/DQMYWTCWA15UJCXUWYH3ACK2VFND" PLAYTIME="372" RELEASE_DATE="2014/1/1" FILESIZE="13761"></INFO>
+<TEMPO BPM="104" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32312" TITLE="And I Still Grow" ARTIST="AFMB"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:" FILE="AFMB - 08 - And I Still Grow.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="8" TITLE="A Forest Mighty Black"></ALBUM>
+<INFO BITRATE="314000" GENRE="Dance &amp; DJ" COMMENT="Amazon.com Song ID: 245376700" COVERARTID="003/DQMYWTCWA15UJCXUWYH3ACK2VFND" PLAYTIME="254" RELEASE_DATE="2014/1/1" FILESIZE="10121"></INFO>
+<TEMPO BPM="109" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32313" TITLE="Jade Knights" ARTIST="AFMB"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:" FILE="AFMB - 09 - Jade Knights.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="9" TITLE="A Forest Mighty Black"></ALBUM>
+<INFO BITRATE="305000" GENRE="Dance &amp; DJ" COMMENT="Mario" COVERARTID="003/DQMYWTCWA15UJCXUWYH3ACK2VFND" PLAYTIME="432" RELEASE_DATE="2014/1/1" FILESIZE="16522"></INFO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32313" TITLE="Vivemant Dimanche" ARTIST="AFMB"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:" FILE="AFMB - 11 - Vivemant Dimanche.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="11" TITLE="A Forest Mighty Black"></ALBUM>
+<INFO BITRATE="295000" GENRE="Dance &amp; DJ" COMMENT="Mario" COVERARTID="003/DQMYWTCWA15UJCXUWYH3ACK2VFND" PLAYTIME="181" RELEASE_DATE="2014/1/1" FILESIZE="6913"></INFO>
+<CUE_V2 NAME="Serato Cue 1" DISPL_ORDER="0" TYPE="0" START="150" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32337" TITLE="Kolido" ARTIST="Dauwd"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:Ghostly/:Ghostly Swim 2/:" FILE="Dauwd - 06 - Kolido.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="12" TRACK="6" TITLE="Ghostly Swim 2"></ALBUM>
+<INFO BITRATE="320000" GENRE="Electronic" COVERARTID="038/GF0XVUAEJCG5FD0QPJY4DLTX4H2A" PLAYTIME="411" RELEASE_DATE="2014/1/1" FILESIZE="17288"></INFO>
+<TEMPO BPM="124" BPM_QUALITY="100"></TEMPO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32353" TITLE="Picture Palace" ARTIST="Ian Pooley"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:" FILE="Ian Pooley - Picture Palace.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="11" TRACK="2"></ALBUM>
+<INFO BITRATE="192000" GENRE="Other" PLAYTIME="517" FILESIZE="12174"></INFO>
+<TEMPO BPM="121" BPM_QUALITY="100"></TEMPO>
+<CUE_V2 NAME="Serato Cue 1" DISPL_ORDER="0" TYPE="0" START="47338" LEN="0" REPEATS="-1" HOTCUE="0"></CUE_V2>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2015/6/5" MODIFIED_TIME="32389" TITLE="Marlborol Noir (Original Mix)" ARTIST="North Lake"><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:Ten Years Of Phonica/:" FILE="North Lake - Marlborol Noir (Original Mix).mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="33" TRACK="26" TITLE="Ten Years Of Phonica"></ALBUM>
+<INFO BITRATE="262000" GENRE="Dance &amp; DJ" COMMENT="Mario" COVERARTID="090/0OYJLOB010GWNCH3EVHVCGLPHSJB" PLAYTIME="443" RELEASE_DATE="2014/1/1" FILESIZE="14431"></INFO>
+</ENTRY>
+<ENTRY MODIFIED_DATE="2002/3/8" MODIFIED_TIME="11886" TITLE="Hell or Heaven" ARTIST="L.U.P.O."><LOCATION DIR="/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Compilations/:Deep Heat 8/:" FILE="L.U.P.O. - Hell or Heaven.mp3" VOLUME="J:" VOLUMEID=""></LOCATION>
+<ALBUM OF_TRACKS="16" TRACK="12" TITLE="Deep Heat 8 - Disc 2"></ALBUM>
+<INFO BITRATE="192000" PLAYTIME="327" FILESIZE="7662"></INFO>
+</ENTRY>
+</COLLECTION>
+<PLAYLISTS><NODE TYPE="FOLDER" NAME="$ROOT"><SUBNODES COUNT="1"><NODE TYPE="PLAYLIST" NAME="Deep House"><PLAYLIST ENTRIES="15" TYPE="LIST"><ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Cavalier - Kaimanawa (Original Mix).mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Coco, Steel &amp; Lovebomb - Feel It (Original Mix).wav"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Isolee - Face B (Original Mix).aiff"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:John Daly - This Is a Lonely Beat (Original Mix).mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Manuel Tur, DPlay - Deviate (Original Mix).mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Martine Girault - The Revival (Giom Remix).aiff"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Sort/:Beatport/:Soultourist - Turn Loose (Dixon Edit).mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:AFMB - 02 - A Tribute.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:AFMB - 08 - And I Still Grow.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:AFMB - 09 - Jade Knights.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:AFMB/:AFMB - A Forest Mighty Black/:AFMB - 11 - Vivemant Dimanche.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:Ghostly/:Ghostly Swim 2/:Dauwd - 06 - Kolido.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:Ian Pooley - Picture Palace.mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:Ten Years Of Phonica/:North Lake - Marlborol Noir (Original Mix).mp3"></PRIMARYKEY>
+</ENTRY>
+<ENTRY><PRIMARYKEY TYPE="TRACK" KEY="J:/:Music/:Mp3/:_Electronic &amp; Dance Etc/:_Compilations/:Deep Heat 8/:L.U.P.O. - Hell or Heaven.mp3"></PRIMARYKEY>
+</ENTRY>
+</PLAYLIST>
+</NODE>
+</SUBNODES>
+</NODE>
+</PLAYLISTS>
+</NML>
